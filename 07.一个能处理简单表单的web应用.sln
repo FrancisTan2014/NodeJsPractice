@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "07.一个能处理简单表单的web应用", "07.一个能处理简单表单的web应用\07.一个能处理简单表单的web应用.njsproj", "{08828CA7-5214-494B-97D6-A1F7F28A624C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08828CA7-5214-494B-97D6-A1F7F28A624C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08828CA7-5214-494B-97D6-A1F7F28A624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08828CA7-5214-494B-97D6-A1F7F28A624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08828CA7-5214-494B-97D6-A1F7F28A624C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
