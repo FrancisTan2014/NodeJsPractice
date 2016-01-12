@@ -6,7 +6,7 @@ function start(router) {
     function onRequest(req, res) {
         console.log('Server started.');
 
-        var pathname = url.parse(req.url).pathname;
+        var pathname = url.parse(req.url).pathname; 
         
     }
 
